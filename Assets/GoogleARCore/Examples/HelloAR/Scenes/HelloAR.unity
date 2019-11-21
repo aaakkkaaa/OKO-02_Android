@@ -269,11 +269,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FirstPersonCamera: {fileID: 896679035}
-  GameObjectVerticalPlanePrefab: {fileID: 1513252861858756, guid: 8b604092cbb3d482da82845b61a6809b,
+  GameObjectVerticalPlanePrefab: {fileID: 1244175295719478282, guid: 944869889dca8c64c8de5edd345c3890,
     type: 3}
-  GameObjectHorizontalPlanePrefab: {fileID: 1513252861858756, guid: 8b604092cbb3d482da82845b61a6809b,
+  GameObjectHorizontalPlanePrefab: {fileID: 1244175295719478282, guid: 944869889dca8c64c8de5edd345c3890,
     type: 3}
-  GameObjectPointPrefab: {fileID: 1513252861858756, guid: 8b604092cbb3d482da82845b61a6809b,
+  GameObjectPointPrefab: {fileID: 1244175295719478282, guid: 944869889dca8c64c8de5edd345c3890,
     type: 3}
 --- !u!1001 &688001843
 PrefabInstance:
